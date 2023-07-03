@@ -1,6 +1,6 @@
 Oi!!! Eu sou Priscila Cavalcante 👋
 
-- 🔭 No momento em busca de oportunidade de trabalho na area de Inteligência de Dados
+- 🔭 Em busca de oportunidade de trabalho na area de Inteligência de Dados
 - 🌱 Estudando Analise e desenvolvimento de sistemas como também Ciência de Dados.
 - 😄 Pronouns: Ela/Dela
 <div>
