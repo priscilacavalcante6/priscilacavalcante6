@@ -18,8 +18,6 @@ Oi!!! Eu sou Priscila Cavalcante 👋
  
  <br>
  
-  ![Snake animation](https://github.com/priscilacavalcante6/priscilacavalcante6/blob/output/github-contribution-grid-snake.svg)
-
 </div>
  
 </div>
