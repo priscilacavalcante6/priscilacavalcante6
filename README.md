@@ -1,6 +1,6 @@
 Oi!!! Eu sou Priscila Cavalcante 👋
 
-- 🔭 Em busca de oportunidade, sempre focando o aprendendizado e melhorar minha performance Back-end e Front-end.
+- 🔭 Em busca de oportunidade, sempre focando o aprendizado e melhorar minha performance Back-end e Front-end.
 - 🌱 Estudando Analise e desenvolvimento de sistemas e Ciência de Dados.
 - 😄 Pronouns: Ela/Dela
 <div>
