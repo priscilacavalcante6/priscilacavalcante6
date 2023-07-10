@@ -40,6 +40,6 @@ Oi!!! Eu sou Priscila Cavalcante 👋
  <a href="https://www.behance.net/priscilac1"target = "_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"target="_blank"></a>
  <a href="https://www.hackerrank.com/priscilacavalca1"target = "_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"target="_blank"></a>
 
-   ![  ![Snake animation](https://github.com/priscilacavalcante6/priscilacavalcante6/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/priscilacavalcante6/priscilacavalcante6/blob/output/github-contribution-grid-snake.svg)
    
   </div>
