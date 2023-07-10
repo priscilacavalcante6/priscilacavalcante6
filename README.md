@@ -4,8 +4,8 @@ Oi!!! Eu sou Priscila Cavalcante 👋
 - 🌱 Estudando Analise e desenvolvimento de sistemas e Ciência de Dados.
 - 😄 Pronouns: Ela/Dela
 
-<div>
-   <a href="https://github.com/"priscilacavalcante6>
+ <div>
+   <a href="https://github.com/priscilacavalcante6">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilacavalcante6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilacavalcante6&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -14,6 +14,12 @@ Oi!!! Eu sou Priscila Cavalcante 👋
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <br>
+ 
+  ![Snake animation](https://github.com/priscilacavalcante6/priscilacavalcante6/blob/output/github-contribution-grid-snake.svg)
+
 </div>
  
 </div>
@@ -36,6 +42,6 @@ Oi!!! Eu sou Priscila Cavalcante 👋
  <a href="https://www.behance.net/priscilac1"target = "_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"target="_blank"></a>
  <a href="https://www.hackerrank.com/priscilacavalca1"target = "_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"target="_blank"></a>
 
-   ![Snake animation](http://github.com/priscilacavalcante6/priscilacavalcante6/blob/output/github-contribution-grid-snake-svg)
+   ![  ![Snake animation](https://github.com/priscilacavalcante6/priscilacavalcante6/blob/output/github-contribution-grid-snake.svg)
    
   </div>
